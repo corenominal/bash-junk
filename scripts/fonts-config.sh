@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Descripiton: Downloads my preferred font configuration files and moves them
+# into their correct locations.
+
 FLAG=false
 
 echo "font configuration"
